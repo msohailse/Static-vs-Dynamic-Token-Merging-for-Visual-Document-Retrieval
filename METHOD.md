@@ -186,6 +186,13 @@ Attempt 2: 0.891 at 11.0% memory; Attempt 1: 0.845 at 12.3%; Static 9: 0.891 at 
 
 ### The figures
 
+![Where the memory savings come from](results/memory_profile.png)
+
+*The mechanism in one picture: every page plotted by its density score S against the vectors it
+stores. Static 9 (blue) pays ~114 vectors for every page regardless of content; ours (orange) drops
+to the F=13 bound exactly on the pages the analysis is confident are redundant, and matches the
+paper everywhere it is dense or unsure — a blue square inside an orange marker is a tie.*
+
 ![Benchmark A: accuracy and memory per dataset](results/benchmark_a.png)
 
 *Per-dataset view. Blue dotted = the paper's Static 9 (always F=9). Our lines: orange = Attempt 2,
