@@ -1,6 +1,6 @@
 # Static vs. Dynamic Token Merging for Visual Document Retrieval
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sohail0992/Static-vs-Dynamic-Token-Merging-for-Visual-Document-Retrieval/blob/main/Static_vs_Dynamic_Token_Merging_for_Visual_Document_Retrieval.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msohailse/Static-vs-Dynamic-Token-Merging-for-Visual-Document-Retrieval/blob/main/Static_vs_Dynamic_Token_Merging_for_Visual_Document_Retrieval.ipynb)
 
 **One-click run:** the badge above opens the notebook in Google Colab. Pick a GPU runtime
 (Runtime → Change runtime type → T4), then Runtime → Run all — the first cell clones this repo,
