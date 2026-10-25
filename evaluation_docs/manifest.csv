@@ -1,0 +1,69 @@
+file,page,dataset,page_type,query
+DocVQA_00.pdf,0,DocVQA,text-rich,What is the dividend payout in 2012?
+DocVQA_01.pdf,0,DocVQA,text-rich,What is the name of the person in the CC field ?
+DocVQA_02.pdf,0,DocVQA,text-rich,What is the personnel costs in the 4th year?
+DocVQA_03.pdf,0,DocVQA,text-rich,What is the table number?
+DocVQA_04.pdf,0,DocVQA,text-rich,What is the Log-in No. ?
+DocVQA_05.pdf,0,DocVQA,text-rich,Which meeting is expected to have the highest ' attendance ' ?
+DocVQA_06.pdf,0,DocVQA,text-rich,What is plotted along the x axis ?
+DocVQA_07.pdf,0,DocVQA,text-rich,What is the 10th 'title' in Contents ?
+DocVQA_08.pdf,0,DocVQA,text-rich,What is No. 2-26 of subheading H ?
+DocVQA_09.pdf,0,DocVQA,text-rich,What is the second subheading?
+TAT-DQA_10.pdf,0,TAT-DQA,text-rich,What was the total assets from AMER in 2018?
+TAT-DQA_11.pdf,0,TAT-DQA,text-rich,What are the two license agreements for the currently marketed products?
+TAT-DQA_12.pdf,0,TAT-DQA,text-rich,Which years does the table provide information for the related party items included in Revenues?
+TAT-DQA_13.pdf,0,TAT-DQA,text-rich,What does the table show?
+TAT-DQA_14.pdf,0,TAT-DQA,text-rich,What does shareholder distributions - dividends in the table represent?
+TAT-DQA_15.pdf,0,TAT-DQA,text-rich,What are the respective APRU from on-net in 2017 and 2018 respectively?
+TAT-DQA_16.pdf,0,TAT-DQA,text-rich,What is the % change in the capital intensity ratio for BCE?
+TAT-DQA_17.pdf,0,TAT-DQA,text-rich,What are the respective goodwill at 2018 and 2019?
+TAT-DQA_18.pdf,0,TAT-DQA,text-rich,When are trade payables paid?
+TAT-DQA_19.pdf,0,TAT-DQA,text-rich,How is the basic net income per share computed?
+InfoVQA_20.pdf,0,InfoVQA,low-density,Which category of apps enjoy the least percentage of popularity?
+InfoVQA_21.pdf,0,InfoVQA,low-density,Who is the CEO of JP Morgan?
+InfoVQA_22.pdf,0,InfoVQA,low-density,What percent of recruiters make most of their hires through LinkedIn?
+InfoVQA_23.pdf,0,InfoVQA,low-density,"In 2010 , what percentage of recruitments used linkedin?"
+InfoVQA_24.pdf,0,InfoVQA,low-density,Which social media platform has the least number of active users?
+InfoVQA_25.pdf,0,InfoVQA,low-density,Who founded Facebook?
+InfoVQA_26.pdf,0,InfoVQA,low-density,What percentage of parents want to receive text messages from there child teacher?
+InfoVQA_27.pdf,0,InfoVQA,low-density,which social media platform is the most common among health organizations?
+InfoVQA_28.pdf,0,InfoVQA,low-density,Which is the second most popular social media job title according to the pie chart?
+InfoVQA_29.pdf,0,InfoVQA,low-density,How many social media holidays are there in the month of January?
+ArxivQA_30.pdf,0,ArxivQA,low-density,"Based on the graph, what is the impact of correcting for fspec not equal to 1 on the surface density trend?"
+ArxivQA_31.pdf,0,ArxivQA,low-density,"Based on the progression from JUL10 to FEB11Q, what trend can be observed in the thread participation?"
+ArxivQA_32.pdf,0,ArxivQA,low-density,What physical phenomenon could the pattern of lines on the right side of the figure represent?
+ArxivQA_33.pdf,0,ArxivQA,low-density,What is the approximate uv-distance where the measured real component starts to significantly deviate from the models shown?
+ArxivQA_34.pdf,0,ArxivQA,low-density,In which subfigures does the average arrival flux (<v>) appear to have a direct relationship with betweenness?
+ArxivQA_35.pdf,0,ArxivQA,low-density,"Based on the figure, how does changing the parameter V from 0.1 to 0.2 affect the system's transition to disorder for N=200?"
+ArxivQA_36.pdf,0,ArxivQA,low-density,What is the main variable being analyzed on the x-axis of these graphs?
+ArxivQA_37.pdf,0,ArxivQA,low-density,"Based on the graph, how does the von Neumann entropy of the Hawking radiation (\( S^{HR}_{vN} \)) behave as the parameter \( \Omega_0 \) increases after \( \Omega_{Page} \)?"
+ArxivQA_38.pdf,0,ArxivQA,low-density,What does the figure primarily illustrate?
+ArxivQA_39.pdf,0,ArxivQA,low-density,What role does asymmetrical feedback play in the context of Figure C?
+TabFQuAD_40.pdf,0,TabFQuAD,low-density,Quelles étaient les principales composantes du bénéfice net par action d'une entreprise pour les années 2016 et 2017?
+TabFQuAD_41.pdf,0,TabFQuAD,low-density,"Comment les activités opérationnelles, d'investissement et de financement affectent-elles la trésorerie d'une entreprise au cours de différentes périodes?"
+TabFQuAD_42.pdf,0,TabFQuAD,low-density,Quels sont les champs typiques et leur signification dans une base de données d'exercices financiers d'une collectivité ?
+TabFQuAD_43.pdf,0,TabFQuAD,low-density,Comment a évolué le résultat net des sociétés consolidées dans le secteur aérien entre 2011 et 2012?
+TabFQuAD_44.pdf,0,TabFQuAD,low-density,Quel est l'impact des provisions sur le résultat d'exploitation dans l'industrie aéronautique récemment ?
+TabFQuAD_45.pdf,0,TabFQuAD,low-density,Combien de personnes sont employées à entretenir les chambres funéraires en Normandie ?
+TabFQuAD_46.pdf,0,TabFQuAD,low-density,quelle est la moyenne des dépenses par secteur en 2008 ?
+TabFQuAD_47.pdf,0,TabFQuAD,low-density,Quels sont les taux de croissance annuels moyens du transport routier de voyageurs pour la période 2013-2008 ?
+TabFQuAD_48.pdf,0,TabFQuAD,low-density,"En 2011, quelle est la part des revenus de l'activité cargo de KLM qui concerne des destinations en Afrique ou au Moyen-Orient ou en Asie?"
+TabFQuAD_49.pdf,0,TabFQuAD,low-density,"Combien de trimestres le trafic intérieur est-il supérieur à 4,5 en 2020 ?"
+DocVQA_multipage.pdf,0,DocVQA,text-rich,Which is the railways company?
+DocVQA_multipage.pdf,1,DocVQA,text-rich,Under Private service how many patients were discharged in Neurology?
+DocVQA_multipage.pdf,2,DocVQA,text-rich,What is the brand name of the ITC personal care product advertised here?
+DocVQA_multipage.pdf,3,DocVQA,text-rich,How many adult deaths were in 1978 as per 2nd quarter report ?
+DocVQA_multipage.pdf,4,DocVQA,text-rich,What Tobacco brand of GPI is shown in the picture?
+TAT-DQA_multipage.pdf,0,TAT-DQA,text-rich,Which foreign jurisdictions had the greatest effect on the provision for income taxes?
+TAT-DQA_multipage.pdf,1,TAT-DQA,text-rich,What is the number of shares to be increased under the shareholders approved amendment?
+TAT-DQA_multipage.pdf,2,TAT-DQA,text-rich,In which years was the equity in net earnings of affiliates recorded for?
+TAT-DQA_multipage.pdf,3,TAT-DQA,text-rich,What does Cash and Cash Equivalents include?
+TAT-DQA_multipage.pdf,4,TAT-DQA,text-rich,What is the topic of this note?
+InfoVQA_multipage.pdf,0,InfoVQA,low-density,Which Nonprofit issue is most talked about in Twitter?
+InfoVQA_multipage.pdf,1,InfoVQA,low-density,"Which social media referred more business than LinkedIn, YouTube, and Google +?"
+InfoVQA_multipage.pdf,2,InfoVQA,low-density,What percentage of companies do not use two or more networks to connect with prospective employees?
+InfoVQA_multipage.pdf,3,InfoVQA,low-density,how many infrastructure in this diagram are new?
+ArxivQA_multipage.pdf,0,ArxivQA,low-density,"Based on the figure, which statement is true about the relationship between \( (K')^T \) and \( V \)?"
+ArxivQA_multipage.pdf,1,ArxivQA,low-density,What can be inferred about the relationship between \( \delta(T) \) and r from the rightmost graph?
+ArxivQA_multipage.pdf,2,ArxivQA,low-density,What feature of the graph allows for the comparison of different \(\eta\) values?
+ArxivQA_multipage.pdf,3,ArxivQA,low-density,What inputs does the Monocular Reconstruction process require to generate an expression in the given system?

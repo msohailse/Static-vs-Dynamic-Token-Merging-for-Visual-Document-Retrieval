@@ -1,0 +1,14 @@
+# Official ColPali repo (model + HierarchicalTokenPooler used for merging)
+colpali-engine>=0.3.11
+# Pulled in by colpali-engine but pinned here for clarity
+torch>=2.2
+transformers
+scipy
+pillow
+numpy
+# Data handling & plots
+pandas
+matplotlib
+tqdm
+# PDF -> page images (also needs the poppler system package, see README)
+pdf2image
