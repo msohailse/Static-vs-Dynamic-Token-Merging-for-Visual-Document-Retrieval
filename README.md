@@ -13,13 +13,14 @@ Retrieval: An Empirical Study on Reducing Patch-Level Embeddings"* (Ma et al., A
 ## The idea in one paragraph
 
 ColPali turns every document page into ~1,030 patch embeddings, which makes the index huge. The paper's
-Light-ColPali merges similar patches with one **fixed** merging factor (e.g. 9 ⇒ ~11% of the memory) and
-notes that dense text pages lose more accuracy than sparse visual pages — choosing the factor **per page**
-is left as future work. This project tests exactly that: a **dynamic merging factor** computed from each
-page's visual density `S` (`F = 49 − 47·S`, clipped to [2, 49]), so dense pages are merged gently and
-sparse pages aggressively. We compare Full (no merging), Static 9 (the paper's baseline, via the official
-`HierarchicalTokenPooler`), Thesis Dynamic, and a memory-matched static control, measuring **NDCG@5 /
-Recall@1 / MRR vs. index memory** on real documents with real queries.
+Light-ColPali merges similar patches with one **fixed** merging factor (9 ⇒ ~11% of the memory) and notes
+that dense text pages lose the most accuracy — choosing the factor **per page** is left as future work.
+This project does exactly that: each page's **own patch embeddings** reveal how compressible it is
+(`S = 1 − mean nearest-neighbour cosine similarity`; validated AUC 0.70 for separating text-rich from
+low-density pages, where pixel heuristics fail). Around a default factor (D=13, chosen by a sweep),
+information-dense pages are merged gently (F≈5–9) and redundant pages harder (F≈13–26). Result on 54 real
+PDF documents (68 pages) with real queries: **97.7% of full ColPali's NDCG@5 at 8.3% of the memory — more
+accurate and ~25% smaller than the paper's Static 9 baseline** (97.3% at 11.1%). See `results/RESULTS.md`.
 
 ## Files
 
