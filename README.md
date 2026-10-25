@@ -27,6 +27,7 @@ accurate and ~25% smaller than the paper's Static 9 baseline** (97.3% at 11.1%).
 | Path | What it is |
 |---|---|
 | `Static_vs_Dynamic_Token_Merging_for_Visual_Document_Retrieval.ipynb` | The whole experiment (fully commented, run top to bottom) |
+| `METHOD.md` | Plain-language explanation of the algorithms: the density analysis, both attempts, scoring, and efficiency |
 | `evaluation_docs/` | 54 real PDF documents (50 single-page + 4 multi-page, 68 pages) from five ViDoRe test sets |
 | `evaluation_docs/manifest.csv` | Ground truth: one row per (document, page) with the real benchmark query for that page |
 | `2025.findings-acl.1003.pdf` | The paper; also used as the second benchmark corpus (13 pages, 8 hand-labelled queries) |

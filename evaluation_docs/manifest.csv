@@ -67,3 +67,73 @@ ArxivQA_multipage.pdf,0,ArxivQA,low-density,"Based on the figure, which statemen
 ArxivQA_multipage.pdf,1,ArxivQA,low-density,What can be inferred about the relationship between \( \delta(T) \) and r from the rightmost graph?
 ArxivQA_multipage.pdf,2,ArxivQA,low-density,What feature of the graph allows for the comparison of different \(\eta\) values?
 ArxivQA_multipage.pdf,3,ArxivQA,low-density,What inputs does the Monocular Reconstruction process require to generate an expression in the given system?
+DocVQA_huge.pdf,0,DocVQA,text-rich,What is the % Promoted Volume in EDLP stores?
+DocVQA_huge.pdf,1,DocVQA,text-rich,Which year was the meeting held?
+DocVQA_huge.pdf,2,DocVQA,text-rich,What is the full form of AHA?
+DocVQA_huge.pdf,3,DocVQA,text-rich,Which year's Budget was this?
+DocVQA_huge.pdf,4,DocVQA,text-rich,What is the order no. ?
+DocVQA_huge.pdf,5,DocVQA,text-rich,What is the fullform of AAN?
+DocVQA_huge.pdf,6,DocVQA,text-rich,Which hospital is mentioned in Appendix V ?
+DocVQA_huge.pdf,7,DocVQA,text-rich,When is the memorandum dated?
+DocVQA_huge.pdf,8,DocVQA,text-rich,What is the table number?
+DocVQA_huge.pdf,9,DocVQA,text-rich,Which year's report was this?
+DocVQA_huge.pdf,10,DocVQA,text-rich,"What is the date and time mentioned at the top of the page, outside of the Tabular representation?"
+DocVQA_huge.pdf,11,DocVQA,text-rich,What is the day and date of Meeting?
+DocVQA_huge.pdf,12,DocVQA,text-rich,What is the name of the medical association?
+DocVQA_huge.pdf,13,DocVQA,text-rich,What is the deadline date?
+DocVQA_huge.pdf,14,DocVQA,text-rich,What is the title of the document ?
+DocVQA_huge.pdf,15,DocVQA,text-rich,What is the number of live births for Alabama?
+DocVQA_huge.pdf,16,DocVQA,text-rich,What is the ‘title’ of the plot?
+DocVQA_huge.pdf,17,DocVQA,text-rich,What is the negotiated budget for Rutgers Med. Sch. given in the document?
+DocVQA_huge.pdf,18,DocVQA,text-rich,What is SCGP?
+DocVQA_huge.pdf,19,DocVQA,text-rich,What is written in red ink at the top?
+DocVQA_huge.pdf,20,DocVQA,text-rich,Experiences of the which branch of the clan will you be most interested in?
+DocVQA_huge.pdf,21,DocVQA,text-rich,What are the letters in the monogram logo at the top right of the document?
+DocVQA_huge.pdf,22,DocVQA,text-rich,"What is the number in parentheses [ ], between the two Tables?"
+DocVQA_huge.pdf,23,DocVQA,text-rich,What is the income tax for 2003?
+DocVQA_huge.pdf,24,DocVQA,text-rich,Which work area is this related?
+TAT-DQA_huge.pdf,0,TAT-DQA,text-rich,What are the US$ values for 2015 to 2018 translated for?
+TAT-DQA_huge.pdf,1,TAT-DQA,text-rich,What is the percentage increase in CTS sales in 2019?
+TAT-DQA_huge.pdf,2,TAT-DQA,text-rich,How much did net sales change between 2017 and 2018?
+TAT-DQA_huge.pdf,3,TAT-DQA,text-rich,Which years does the table provide information for accounts receivable?
+TAT-DQA_huge.pdf,4,TAT-DQA,text-rich,How is Basic net earnings per common share calculated
+TAT-DQA_huge.pdf,5,TAT-DQA,text-rich,How are Provisions for post-employment benefits plans recognised?
+TAT-DQA_huge.pdf,6,TAT-DQA,text-rich,What was the amount of equity raising done by the Group in 2018?
+TAT-DQA_huge.pdf,7,TAT-DQA,text-rich,What was the reason for the increase in Selling and Marketing expenses?
+TAT-DQA_huge.pdf,8,TAT-DQA,text-rich,How much did the company decrease its valuation allowance by in 2019?
+TAT-DQA_huge.pdf,9,TAT-DQA,text-rich,What was the increase in net cash provided by operating activities from 2018 to 2019?
+TAT-DQA_huge.pdf,10,TAT-DQA,text-rich,How much was the average restructuring expenses in 2018 and 2019?
+TAT-DQA_huge.pdf,11,TAT-DQA,text-rich,What was the Expected long-term return on plan assets assumption used in calculating net periodic benefit cost based on?
+TAT-DQA_huge.pdf,12,TAT-DQA,text-rich,What is the value of the accounts receivable due from Customer A in 2019?
+TAT-DQA_huge.pdf,13,TAT-DQA,text-rich,What is the increase in franchise rental revenues in 2019?
+TAT-DQA_huge.pdf,14,TAT-DQA,text-rich,What is the cost of living indexation rate applicable to?
+TAT-DQA_huge.pdf,15,TAT-DQA,text-rich,What was the Acquisition of Commercialization Rights related to?
+TAT-DQA_huge.pdf,16,TAT-DQA,text-rich,When did Roper enter into a five-year $2.5 billion unsecured credit facility? 
+TAT-DQA_huge.pdf,17,TAT-DQA,text-rich,Which years does the table provide information for the changes in the components of accumulated other comprehensive income (AOCI)?
+TAT-DQA_huge.pdf,18,TAT-DQA,text-rich,How much was the average total amortization of intangible assets in 2018 and 2019?
+TAT-DQA_huge.pdf,19,TAT-DQA,text-rich,What do wages and salaries include?
+TAT-DQA_huge.pdf,20,TAT-DQA,text-rich,What was the movement in total revenue in 2019?
+TAT-DQA_huge.pdf,21,TAT-DQA,text-rich,What method did the company use when Topic 606 in fiscal 2019 was adopted?
+TAT-DQA_huge.pdf,22,TAT-DQA,text-rich,"Which years does the table provide information for R&D, sales and marketing, and G&A expenses?"
+TAT-DQA_huge.pdf,23,TAT-DQA,text-rich,What does the table show?
+TAT-DQA_huge.pdf,24,TAT-DQA,text-rich,What costs are associated under capital expenditure?
+InfoVQA_huge.pdf,0,InfoVQA,low-density,What is the microblog market share of Sina Weibo?
+InfoVQA_huge.pdf,1,InfoVQA,low-density,what is the chance of most people being convinced to buy a product/service after watching the video - likely to buy or unlikely to buy?
+InfoVQA_huge.pdf,2,InfoVQA,low-density,"Which company collects only phone number, email address and location (time zone)?"
+InfoVQA_huge.pdf,3,InfoVQA,low-density,Through how many ways GERD can diagnose other than Endoscopy?
+InfoVQA_huge.pdf,4,InfoVQA,low-density,Which money management app is common to both iPhone and Android?
+InfoVQA_huge.pdf,5,InfoVQA,low-density,How many daily average trips were completed by Uber as on Dec. 2015?
+InfoVQA_huge.pdf,6,InfoVQA,low-density,Which is the biggest word in the infographic?
+InfoVQA_huge.pdf,7,InfoVQA,low-density,What is the news agency of Turkey?
+InfoVQA_huge.pdf,8,InfoVQA,low-density,how many ships do MSC cruises have?
+InfoVQA_huge.pdf,9,InfoVQA,low-density,What percent of large business organizations were implementing or maintaining cloud computing as per the CDW 2011 Cloud Computing Tracking Poll?
+InfoVQA_huge.pdf,10,InfoVQA,low-density,What was the number of deaths on April 17?
+InfoVQA_huge.pdf,11,InfoVQA,low-density,What percent of Irish citizens are concerned about water pollution?
+InfoVQA_huge.pdf,12,InfoVQA,low-density,What is the value of High-Density Lipoproteins listed in the infographic?
+InfoVQA_huge.pdf,13,InfoVQA,low-density,which state has the highest population - Northern Ireland or Wales?
+InfoVQA_huge.pdf,14,InfoVQA,low-density,"What percent of homes have equity below $200,000?"
+InfoVQA_huge.pdf,15,InfoVQA,low-density,How much oil is spilled into the ocean every year?
+InfoVQA_huge.pdf,16,InfoVQA,low-density,Which country has the highest carbon footprint in Asia?
+InfoVQA_huge.pdf,17,InfoVQA,low-density,What percent of cricket fans in UAE do not watch cricket on mobile?
+InfoVQA_huge.pdf,18,InfoVQA,low-density,What is the most preferred type of food of Francois du Plessis?
+InfoVQA_huge.pdf,19,InfoVQA,low-density,What percent of internet users use  LinkedIn?
